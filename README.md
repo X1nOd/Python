@@ -26,9 +26,16 @@
  <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/787da1d1-aa48-40d9-8b62-f520a0dd725c" /> <br>
  # Самостоятельные задания
  # Задание 1
- 
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/25f21546-fc97-4c30-91a3-bd37b54dce0b" /> <br>
  # Вывод
- 
+ с помощью функции fibonacci(n) мы смогли вывести только нужный нам результат
+ # Задание 2
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/289d3aa4-2d0f-466b-a5d7-0e4f2f33a276" /> <br>
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/531dd3bc-4886-429e-9c1b-bf8caa78838a" /> <br>
+ # Вывод
+ Теперь мы можем записать в отдельный файл все остальные результаты функции
+
+
 
 
 
