@@ -4,7 +4,8 @@ def fibonacci(n):
         yield a
         a, b = b, a + b
 
-n = 243
+n = 252
 fibonacci_numbers = list(fibonacci(n))
+
 
 print(fibonacci_numbers[-1])
